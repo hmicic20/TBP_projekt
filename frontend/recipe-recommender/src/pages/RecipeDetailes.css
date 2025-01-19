@@ -1,0 +1,22 @@
+/* RecipeDetails.css */
+.recipe-details {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .recipe-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .recipe-details h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-details p {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
